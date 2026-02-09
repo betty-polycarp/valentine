@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  overflow: hidden;
+  /* Prevents scrolling when button moves */
+  background-color: #fff5f7;
+}
+
+#no-btn {
+  transition: 0.15s ease;
+  z-index: 999;
+}
